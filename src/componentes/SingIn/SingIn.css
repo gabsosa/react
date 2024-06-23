@@ -1,0 +1,17 @@
+.buttonLogIn {
+    height: 40px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.iconLogIn {
+    margin-right: 20px;
+    margin-left: 10px;
+    width: 15px;
+    height: 15px;
+}
