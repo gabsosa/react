@@ -1,11 +1,14 @@
-import NavBar from "../componentes/Navbar/Navbar";
-import Catalogo from "../componentes/Catalogo/Catalog";
+import NavBar from '../componentes/NavBar/NavBar.jsx'
+import Catalogo from '../componentes/Catalogo/Catalogo.jsx'
+import Footer from '../componentes/Footer/Footer.jsx'
 
 const Home = () => {
+  
   return (
     <>
-      <NavBar />
-      <Catalogo />
+    <NavBar />
+    <Catalogo />
+    <Footer />
     </>
   );
 };
