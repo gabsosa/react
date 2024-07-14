@@ -6,12 +6,10 @@ const CardCategory = () => {
     <Flex
       align="center"
       direction="column"
-      className="card-category"
-      h="180px"
-      w="150px"
+      h={{base: '140px', md: '160px'}}
+      w={{base: "150px",sm: '150px', md: "15%"}}
       border="1px solid black"
       borderRadius='5px'
-      boxSizing="border-box"
       p='10px'
       bg='white'
     >

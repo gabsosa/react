@@ -1,3 +1,4 @@
 .image {
     mask-image: linear-gradient(black 98%, transparent);
+    object-fit: contain;
 }

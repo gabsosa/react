@@ -10,7 +10,7 @@ import {
 } from "@chakra-ui/react";
 import { FaSearch } from "react-icons/fa";
 import { IoClose } from "react-icons/io5";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 const data = ["Apple", "Banana", "Cherry", "Date", "Fig", "Grape", "Kiwi"];
 
