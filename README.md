@@ -1,8 +1,16 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Clothins Store
 
-Currently, two official plugins are available:
+Aplicación e-commerce de ropa, permite al usuario elegir entre una cantidad distintas de productos, ver detalles del producto, agregar al carrito y realizar la compra del mismo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías utilizadas
+
+  react
+
+  react-router-dom
+
+  chakra-ui
+
+  react-icons
+
+
